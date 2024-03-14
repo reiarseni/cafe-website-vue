@@ -5,37 +5,37 @@
     <h1 class="heading"><span>our</span> menu</h1>
     <div class="box-container">
       <div class="box">
-        <img src="src/asset/images/menu-1.png" alt="">
+        <img src="src/assets/images/menu-1.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>
       </div>
       <div class="box">
-        <img src="src/asset/images/menu-2.png" alt="">
+        <img src="src/assets/images/menu-2.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>
       </div>
       <div class="box">
-        <img src="src/asset/images/menu-3.png" alt="">
+        <img src="src/assets/images/menu-3.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>
       </div>
       <div class="box">
-        <img src="src/asset/images/menu-4.png" alt="">
+        <img src="src/assets/images/menu-4.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>
       </div>
       <div class="box">
-        <img src="src/asset/images/menu-5.png" alt="">
+        <img src="src/assets/images/menu-5.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>
       </div>
       <div class="box">
-        <img src="src/asset/images/menu-6.png" alt="">
+        <img src="src/assets/images/menu-6.png" alt="">
         <h3>test and healthy</h3>
         <div class="price">$15.99 <span>$20.99</span></div>
         <a href="#" class="btn">add to cart</a>

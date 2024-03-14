@@ -23,7 +23,7 @@ export default {
   },
   mounted() {
 
-    import('./asset/script.js')
+    import('./assets/script.js')
 
   },
 }

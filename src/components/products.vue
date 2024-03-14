@@ -10,21 +10,21 @@
           name="Fresh Coffee"
           price="$15.99"
           oldPrice="$20.99"
-          imageURL="src/asset/images/product-1.png"
+          imageURL="src/assets/images/product-1.png"
       ></ProductBox>
 
       <ProductBox
           name="Fresh Coffee"
           price="$19.99"
           oldPrice="$23.99"
-          imageURL="src/asset/images/product-2.png"
+          imageURL="src/assets/images/product-2.png"
       ></ProductBox>
 
       <ProductBox
           name="Fresh Coffee"
           price="$12.99"
           oldPrice="$17.99"
-          imageURL="src/asset/images/product-3.png"
+          imageURL="src/assets/images/product-3.png"
       ></ProductBox>
 
     </div>

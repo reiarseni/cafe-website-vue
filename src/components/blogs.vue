@@ -9,7 +9,7 @@
 
       <div class="box">
         <div class="image">
-          <img src="src/asset/images/blog-1.jpg" alt="">
+          <img src="src/assets/images/blog-1.jpg" alt="">
         </div>
         <div class="content">
           <a href="#" class="title">tasty and refreshing coffee</a>
@@ -21,7 +21,7 @@
 
       <div class="box">
         <div class="image">
-          <img src="src/asset/images/blog-2.jpg" alt="">
+          <img src="src/assets/images/blog-2.jpg" alt="">
         </div>
         <div class="content">
           <a href="#" class="title">tasty and refreshing coffee</a>
@@ -33,7 +33,7 @@
 
       <div class="box">
         <div class="image">
-          <img src="src/asset/images/blog-3.jpg" alt="">
+          <img src="src/assets/images/blog-3.jpg" alt="">
         </div>
         <div class="content">
           <a href="#" class="title">tasty and refreshing coffee</a>
